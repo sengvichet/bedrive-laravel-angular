@@ -10,7 +10,7 @@
 		"intervention/image": "~2.1",
         "laravel/socialite": "2.0.*",
 		"intervention/imagecache": "^2.3",
-        "guzzlehttp/guzzle": "5.3",
+        "guzzlehttp/guzzle": "6.5.6",
 	  	"laravel/cashier": "~5.0",
 		"league/flysystem-dropbox": "~1.0",
 		"league/flysystem-aws-s3-v2": "~1.0",
